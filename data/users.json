@@ -1,0 +1,15 @@
+[
+  {
+    "uid": "1776958920298-lmto6l",
+    "name": "TestUser",
+    "email": "testuser@example.com",
+    "password": "password123",
+    "displayName": "TestUser",
+    "photoURL": "",
+    "bio": "",
+    "createdAt": "2026-04-23T15:42:00.298Z",
+    "followers": [],
+    "following": [],
+    "savedPosts": []
+  }
+]

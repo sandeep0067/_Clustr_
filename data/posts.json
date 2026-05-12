@@ -1,0 +1,44 @@
+[
+  {
+    "id": "post_1776930052487_ygnevh",
+    "authorId": "yS8nWkX2h2gmSIwCobvPTKOs9lT2",
+    "title": "React Server Components",
+    "content": "Just finished refactoring our core components using React Server Components. The performance gains are incredible! Here's a snippet of the new pattern we're using. Would love to hear your thoughts on this approach. 👇",
+    "mediaUrl": "",
+    "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+    "mediaType": "",
+    "postType": "interested",
+    "attachment": null,
+    "skills": [
+      "React",
+      "Performance",
+      "WebDev"
+    ],
+    "likes": [],
+    "reactions": [],
+    "reposts": [],
+    "reports": [],
+    "comments": [],
+    "createdAt": 1776929952464
+  },
+  {
+    "id": "post_1776930079349_rigji1",
+    "authorId": "yS8nWkX2h2gmSIwCobvPTKOs9lT2",
+    "title": "",
+    "content": "hello",
+    "mediaUrl": "",
+    "imageUrl": "",
+    "mediaType": "",
+    "postType": "sharing",
+    "attachment": null,
+    "skills": [
+      "Feed"
+    ],
+    "likes": [],
+    "reactions": [],
+    "reposts": [],
+    "reports": [],
+    "comments": [],
+    "createdAt": 1776930079294
+  }
+]
