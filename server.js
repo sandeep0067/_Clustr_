@@ -696,7 +696,11 @@ app.get('/health', (_req, res) => {
     postStorage: 'mongodb',
   });
 });
+app.use(express.static(path.join(__dirname, 'dist')));
 
+app.get('*', (_req, res) => {
+  res.sendFile(path.join(__dirname, 'dist', 'index.html'));
+});
 const PORT = parseInt(process.env.PORT || '5000', 10);
 
 function startServer(port) {
